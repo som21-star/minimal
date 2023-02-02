@@ -10,32 +10,17 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# E-Commerce-Retail-B2B-Case-Study
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+It's a binary classification problem statement with class-imbalance issue. We dealt with SMOTE+TOMEK and ADASYN Result Accuracy: 0.9778936910084451 F1 score: 0.9883692709791841 Recall: 0.9771502399409376 Precision: 0.9998489140698772 Applied customer segmentation using K-Means, feature selection using Recusrive Feature Elimination and finalize the SMOTE+TOMEK model with optimal scores. Helped clients to find the business recommendations and generate insights through the analysis.
 
-## Header 2
+# PwC-Virtual-Case-Experience
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+Used Power BI to solve the business case of Call Centre Trends, Customer Retention and Diversity & Inclusion.
 
-### Header 3
+# SQL - RSVP Movies Case Study
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+RSVP Movies is an Indian film production company which has produced many super-hit movies. The production company wants to plan their every move analytically based on data and have approached you for help with this new project. You have been provided with the data of the movies that have been released in the past three years. You have to analyse the data set and draw meaningful insights that can help them start their new project. Used SQL to analyse the given data and give recommendations to RSVP Movies based on the insights.
 
 #### Header 4
 
